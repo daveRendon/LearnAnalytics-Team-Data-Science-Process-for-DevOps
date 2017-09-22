@@ -1,4 +1,4 @@
-# DevOps for Data Science
+# Team Data Science Process for DevOps
 
 
 
