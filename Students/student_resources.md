@@ -13,6 +13,6 @@ A student notebook is available for download and editing [here](https://github.c
 
 # Other Assets for this course
 
-Additional resources are made available in a learning path available [here](Instructions/Learning Path - Devops for Data Science)
+Additional resources are made available in a learning path available [here](Instructions/LearningPath-DevopsForDataScience)
 
 
