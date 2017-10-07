@@ -33,7 +33,7 @@ Course Objectives - At the end of this Module, you will be able to:
 
 # Additional Information for Students
 
-A student workbook is available [here](Students/student_resources).
+Please see the resources available [here](Students/student_resources).
 
 # Additional Information for Instructors
 
