@@ -1,0 +1,11 @@
+title: Team Data Science process for Dev Ops
+description: This course explains the processes, procedures, platform options that you have available, along with explaining the tools you need to use to create an effective DevOps solution for your Advanced Analytics projects.  
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+encoding: UTF-8
+repository: Azure/LearnAnalytics-Team-Data-Science-Process-for-DevOps
+github: [metadata]
+
+gems:
+  - jekyll-mentions
