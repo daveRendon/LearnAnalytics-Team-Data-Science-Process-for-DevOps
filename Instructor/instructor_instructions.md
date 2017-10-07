@@ -8,4 +8,4 @@ layout: default
 
 Course Slides are available [here](https://github.com/Azure/LearnAnalytics-Team-Data-Science-Process-for-DevOps/raw/master/Instructor/DevOps for Data Science.pptx).
 
-Additional resources are made available in a learning path available [here](Instructions/LearningPath-DevopsForDataScience)
+Additional resources are made available in a learning path available [here](../Instructions/LearningPath-DevopsForDataScience)

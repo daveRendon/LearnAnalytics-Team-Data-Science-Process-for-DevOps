@@ -13,6 +13,5 @@ A student notebook is available for download and editing [here](https://github.c
 
 # Other Assets for this course
 
-Additional resources are made available in a learning path available [here](Instructions/LearningPath-DevopsForDataScience)
-
+Additional resources are made available in a learning path available [here](../Instructions/LearningPath-DevopsForDataScience)
 
